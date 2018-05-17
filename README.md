@@ -13,4 +13,4 @@ loading your scripts dynamically after the DOM has been rendered.
 
 **There is no perfect way to hide front-end Javascript. Hackers can always find a way to access your source code
 if they are determined enough. That's why it is important to keep any sensitive information or proprietary methods
-on the server side. This script is just a simple tool to hide some of your logic from prying eyes ( .) __ ( .) ...
+on the server side. This script is just a simple tool to hide some of your logic from prying eyes...  (  .) __ (  .) 
