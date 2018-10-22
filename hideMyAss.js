@@ -4,6 +4,10 @@
 // var links = document.getElementsByTagName('link');
 // for (var i = 0; i < links.length; i++) links[i].href = '';
 
+// Make a GET request to all of the <links>
+// Grab the response body and put it into <script> tags
+// Remove the <links>, THEN clear the content of the <script> tags
+
 // Main Function
 var hideMyAss = function(){
     var scripts = document.scripts;
